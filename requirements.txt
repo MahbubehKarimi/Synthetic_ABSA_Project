@@ -1,0 +1,9 @@
+torch
+transformers
+diffusers
+segment-anything
+git+https://github.com/openai/CLIP.git
+pandas
+Pillow
+matplotlib
+accelerate
