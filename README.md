@@ -14,7 +14,7 @@ Since the paper was asked to provide a minimal implementation of the paper's met
 Create a folder named Synthetic_ABSA_Project and organize it like this:
 
 ## Synthetic_ABSA_Project/
-## │
+
 ├── data/
 │   ├── twitter15_sample.csv   # Create a small sample CSV
 │   └── generated_images/      # Folder to save output images
