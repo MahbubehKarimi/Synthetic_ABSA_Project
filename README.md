@@ -1,3 +1,30 @@
+Since the paper does not explicitly link a public repository in the abstract, we will follow Category B (Implementation of Method) or Category A (Reproduction if code is assumed). Below is the file structure and code you should create.
+Since the paper was asked to provide a minimal implementation of the paper's method (or the closest approximation possible in class time), even if it is simpler than the original version, the code was trained to run on small data sets due to lack of resources.
+
+1. Repository Structure
+Create a folder named Synthetic_ABSA_Project and organize it like this:
+
+Synthetic_ABSA_Project/
+│
+├── data/
+│   ├── twitter15_sample.csv   # Create a small sample CSV
+│   └── generated_images/      # Folder to save output images
+│
+├── src/
+│   ├── __init__.py
+│   ├── generator.py           # Handles Stable Diffusion
+│   ├── refiner.py             # Handles SAM and CLIP masking
+│   └── classifier.py          # The fusion model
+│
+├── demo/
+│   ├── analysis.ipynb         # The main notebook for the assignment
+│   └── new_data.csv           # Your custom data for testing
+│
+├── requirements.txt
+└── README.md
+
+
+
 Requirement: Instructions for installation and usage.
 
 
