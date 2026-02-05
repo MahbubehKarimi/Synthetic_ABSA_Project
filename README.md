@@ -16,7 +16,7 @@ This project is inspired by the following EMNLP 2025 (Findings) paper:
 Findings of EMNLP 2025.
 
 Official ACL Anthology link:  
-https://aclanthology.org/2025.findings-emnlp.1190/
+https://aclanthology.org/2025.findings-emnlp.1190.pdf
 
 > Note: The original paper PDF is provided separately via LMS submission and is not included in this repository to avoid large file uploads.
 
