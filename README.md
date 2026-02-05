@@ -5,17 +5,21 @@ This repository contains an implementation of an Aspect-Based Sentiment Analysis
 The project follows a modular design where the core functionalities are implemented as reusable Python modules, and the full pipeline is demonstrated in a Jupyter Notebook.
 
 ---
-
+```markdown
 ## Project Structure
-
+```text
 Synthetic_ABSA_Project/
+│
 ├── src/
-│ ├── generator.py # Synthetic image generation from text and aspects
-│ ├── refiner.py # Optional refinement of generated images
-│ └── classifier.py # Aspect-based sentiment classifier
+│   ├── generator.py      # Synthetic image generation from text and aspects
+│   ├── refiner.py        # Optional refinement of generated images
+│   ├── classifier.py    # Aspect-based sentiment classifier
+│
 ├── demo/
-│ └── analysis.ipynb # End-to-end demo: training and testing pipeline
-├── PresentationFiles/ # Presentation and supplementary materials
+│   └── analysis.ipynb    # End-to-end training and testing pipeline
+│
+├── PresentationFiles/   # Presentation and supplementary materials
+│
 ├── requirements.txt
 └── README.md
 
