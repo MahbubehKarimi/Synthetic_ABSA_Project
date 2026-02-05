@@ -5,7 +5,6 @@ This repository contains an implementation of an Aspect-Based Sentiment Analysis
 The project follows a modular design where the core functionalities are implemented as reusable Python modules, and the full pipeline is demonstrated in a Jupyter Notebook.
 
 ---
-```markdown
 ## Project Structure
 ```text
 Synthetic_ABSA_Project/
