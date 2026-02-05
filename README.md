@@ -8,6 +8,18 @@ The proposed system is designed as a research-oriented pipeline
 to investigate the role of synthetic visual data in multimodal ABSA tasks.
 
 ---
+## Reference Paper
+
+This project is inspired by the following EMNLP 2025 (Findings) paper:
+
+**Aspect-based Sentiment Analysis via Synthetic Image Generation**  
+Findings of EMNLP 2025.
+
+Official ACL Anthology link:  
+https://aclanthology.org/2025.findings-emnlp.1190/
+
+> Note: The original paper PDF is provided separately via LMS submission and is not included in this repository to avoid large file uploads.
+
 
 ## Repository Structure
 ```text
@@ -176,3 +188,8 @@ and final outputs, which are analyzed in the provided demonstration notebook.
 ## Presentation Materials
 
 The `PresentationFiles` directory contains presentation slides and supplementary materials used to explain the project methodology and results.
+
+## Disclaimer
+
+This repository provides a prototype implementation inspired by the referenced paper.  
+It does not aim to fully reproduce the original results due to resource and training constraints.
