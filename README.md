@@ -21,7 +21,7 @@ Synthetic_ABSA_Project/
 │
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
