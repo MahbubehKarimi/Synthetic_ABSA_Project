@@ -24,7 +24,7 @@ https://aclanthology.org/2025.findings-emnlp.1190.pdf
 ## Repository Structure
 ```text
 Synthetic_ABSA_Project/
-│── data/generated_images
+│── data/generated_images/
 │   ├── img.jpg      # Synthetic image generated from text and aspects
 ├── src/
 │   ├── generator.py      # Synthetic image generation from text and aspects
